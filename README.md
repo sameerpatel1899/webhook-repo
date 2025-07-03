@@ -399,4 +399,3 @@ Per the assignment:
 
 * `action-repo` = Source of GitHub activity
 * `webhook-repo` = Destination receiver that logs and displays activity
->>>>>>> 5597f5e06066580719a78c29511f6d76a0bffd33
